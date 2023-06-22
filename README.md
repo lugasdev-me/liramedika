@@ -98,3 +98,5 @@ stdout_logfile=/var/www/storage/logs/horizon.log
 
 1. docker-compose exec --user=laradock workspace bash
 2. migrate --seed
+
+EXAMPLE: http://liramedika.siviku.cloud
