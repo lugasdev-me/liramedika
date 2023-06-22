@@ -97,6 +97,6 @@ stdout_logfile=/var/www/storage/logs/horizon.log
 +++++++++++ setup +++++++++
 
 1. docker-compose exec --user=laradock workspace bash
-2. migrate --seed
+2. migrate --seed / download sql di https://drive.google.com/file/d/1jKzBv8_hRIj0Zft-6q1rBjfB-VjZCBVh/view?usp=sharing
 
-EXAMPLE: http://liramedika.siviku.cloud
+DEMO: http://liramedika.siviku.cloud
