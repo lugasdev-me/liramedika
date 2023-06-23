@@ -1,3 +1,16 @@
+Demo Aplikasi : http://liramedika.siviku.cloud
+Account BRI
+    -username: 0987654321
+    -password: 654321
+
+Account BNI
+    -username: 8887777
+    -password: 190999
+
+Account BCA
+    -username: 1234567890
+    -password: 123456
+
 1. git clone <link:repository>
 2. cd liramedika
 3. download laradock di dalam repo -> git clone https://github.com/Laradock/laradock.git
